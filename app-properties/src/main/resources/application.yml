@@ -1,0 +1,8 @@
+#Server Port
+server  :
+  port: 7003
+
+#Customized Properties
+name  :
+  fullname  :
+    Kanchan Kumar Application [application.yml]
